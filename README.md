@@ -1,5 +1,5 @@
 # How to install Nodejs on Ubuntu
-A simplified guide on how to setup your Ubuntu Server to run Nodejs from the downloaded binary
+A simplified guide on the basics of how to setup your Ubuntu Server to run Nodejs from the downloaded binary
 
 ## 1. Download the binary archive
 > #### [`Download Here`](https://nodejs.org/en/download/)
